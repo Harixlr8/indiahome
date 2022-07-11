@@ -1,0 +1,278 @@
+.header{
+    
+    width: 100%;
+    height: 30px;
+
+}
+.firstrow{
+    width: 100%;
+    height: 30px;
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #ebebeb;
+    font-size: 1.2em;
+    margin-top: -5px;
+}
+.firstrowleft{
+    padding-left: 174px;
+    width: 50%;
+}
+.firstrowright{
+    align-self: flex-end;
+    float: right;
+    font-family: 'open_sansregular';
+    background: transparent;
+    color: rgb(27, 27, 27);
+    cursor: pointer;
+    margin-right: 182px;
+    margin-top: -20px;
+}
+.navigation2{
+    height: 100px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.leftnav2{
+    width: 40%;
+    height: 200px;
+   
+}
+.rightnav{
+    display: flex;
+    flex-direction: column;
+    
+}
+.rightnav2{
+    width: 60%;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: row;
+    padding-right: 150px;
+    
+}
+.marginbtw{
+    margin-inline-start: 65px;
+    background-color: #828282;
+    
+
+}
+.rightnav3{
+    display: flex;
+    font-size: 12px;
+    color: #828282;
+    float: left;
+    margin-inline-start: 45px;
+
+}
+.margin31{
+    margin-left: 25px;
+    float: left 150px;
+}
+.margin32{
+    margin-left: 50px;
+    
+}
+.margin33{
+    margin-left: 35px;
+}
+.margin34{
+    margin-left: 20px;
+}
+.margin35{
+    margin-left: 20px;
+}
+.thirdrowimage{
+  height: 75px;
+  margin-top: 5px;
+}
+.thirdrowcontents{
+    float: top;
+    display: flex;
+    margin-left: 124px;
+    margin-top: -61px;
+    padding-bottom: 9px;
+}
+.searchbar{
+    float: left;
+    margin-left: -81px;
+    padding-right: 6px;
+}
+.advanced{
+    margin-left: -10px;
+    float: left;
+}
+.thirdrowsearchbar{
+    width: 50%;
+    padding-top: 7px;
+}
+.bluebarcontents{
+    color: white;
+    cursor: pointer;
+}
+.rightsearchbar{
+    float: left;
+    margin-left: -22px;
+}
+.modi{
+    width: auto;
+    height: 350px;
+    margin-top: -5px;
+font-style: ;
+}
+.maincontent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.leftlinks{
+    color: #828282;
+    list-style: none;
+    font-size: 15px;
+    cursor: pointer;
+}
+.contenthead{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40px;
+}
+.contentimage{
+    margin-left: 40px;
+}
+.referals{
+    width: 100%;
+    height: 350px;
+    background-image: url(blueicon.png);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: white;
+    margin-top: -118px;
+}
+.referals1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 122px;
+}
+.referals3{
+    display: flex;
+    flex-direction: row;
+    margin-top: 45px;
+    margin-right: 25px;
+}
+.referalicons{
+    list-style: none;
+    
+}
+.viewbutton{
+    color: white;
+    background-color: transparent;
+    border-color: #f7f7f7;
+    border-width: thin;
+}
+.referals2{
+    margin-top: px;
+}
+.heading{
+    color: #fff;
+    margin-left: 90px;
+}
+.referallinks1{
+    list-style: none;
+    margin-top: -5px;
+}
+.referallinks2{
+    list-style: none;
+    margin-left: -40px;
+}
+.quicklinks{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content:space-evenly;
+    margin-top: 25px;
+    cursor: pointer;
+}
+.quicklinkscaption{
+    display: flex;
+    cursor: pointer;
+    justify-content: space-evenly;
+    font-size: 15px;
+    text-underline-position: below;
+}
+.mobile{
+    margin-left: -75px;
+}
+.calendar{
+    margin-left: -55px;
+}
+.mygov{
+    float: right;
+    margin-right: -15px;
+}
+.quicklinkspara{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: small;
+    color: #828282;
+    margin-left: 120px;
+    cursor: pointer;
+}
+.quicklinklastpara{
+    margin-right: 65px;
+}
+.footer{
+    height: 550px;
+    background-color: rgb(17, 19, 19);
+}
+.footerhead{
+    height: 30px;
+    background-color: dimgray;
+    color: #fff;
+    font-size: 15px;
+}
+.footerheadcontent{
+    float: left;
+    margin-left: 200px;
+    cursor: pointer;
+}
+.footerleft{
+    display: flex;
+    color:#828282;
+    cursor: pointer;
+    font-size: 15px;
+    margin-left: 100px;
+    margin-top: 10px;
+    width: 50%;
+    justify-content: space-between;
+ 
+}
+.footerleftlist{
+    list-style: none;
+}
+.footerheading{
+    color: #fff;
+    font-size: large;
+}
+.footerleftcenter{
+    margin-top: 68px;
+}
+.footerright{
+    float: right;
+    margin-top: -250px;
+    margin-right: 100px;
+    cursor: pointer;
+}
+.footerlast{
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+    margin-left: 150px;
+    cursor: pointer;
+    
+}
+.footerlasttext{
+    color:#828282;
+    font-size: small;
+}
